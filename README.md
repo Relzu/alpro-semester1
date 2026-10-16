@@ -1,7 +1,7 @@
 # alpro-semester1
 Pertemuan 1 : 
 
-https://github.com/Relzu/alpro-semester1/tree/main/p1_alpro
+https://github.com/Relzu/alpro-semester1/tree/main/p1_alpro 
 Pertemuan 2 :
 
 https://github.com/Relzu/alpro-semester1/tree/main/p2_alpro
