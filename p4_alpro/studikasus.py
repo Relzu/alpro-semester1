@@ -15,7 +15,7 @@ if motor >= 2010:
         biaya_servis = 75000
     else:
         biaya_servis = 35000
-        paket = "Tidak Dikenali"
+        paket = "Reguler"
     oli = input("sekalian ganti oli? (y/t) ")
     if oli == "y":
         biaya_oli = 50000
